@@ -1,0 +1,16 @@
+.background {
+  background-image: url("./img/background-img.jpg");
+  height: 100vh;
+}
+
+.box-background{
+  background-color: #425C77;
+  width: 80vh;
+  height: 100vh;
+  border-radius: 25px;
+}
+
+
+.myContainer{
+  margin-top: 200px;
+}
